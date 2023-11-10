@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awsmmx&label=Profile%20views&color=0e75b6&style=flat" alt="awsmmx" /> </p>
 
-- 🔭 I’m currently working on [EPAM](https://www.epam.com/)
+- 🔭 I’m currently working on [NoN](https://www.error.com/)
 
 - 🌱 I’m currently learning **Azure Cloud**
 
